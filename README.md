@@ -9,7 +9,7 @@ The following tasks were performed for the creation and overview of the app.
 . perform an API call with the OpenWeatherMap
 . retrieve the current weather description for each city
 . create a dataframe containing the updated weather data
-2. Create a Travel Destinations Map
+2.Create a Travel Destinations Map
 
 . use input statements to retrieve customer weather preferences
 . use those preferences to identify potential travel destinations and nearby hotels
