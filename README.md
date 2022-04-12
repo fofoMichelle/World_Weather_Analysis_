@@ -23,7 +23,7 @@ The following tasks were performed for the creation and overview of the app.
 # Project Summary
 The following screenshots shows the maps created for the travel destinations and travel itinerary (this includes the pop up markers for both the travel itinerary map and the travel destinations map)
 
-![image](https://user-images.githubusercontent.com/99924850/162866069-c5d355e1-9d93-4350-b851-0324dafae7d6.png)
+
 
 ![image](https://user-images.githubusercontent.com/99924850/162868646-81c11111-7675-4252-a413-c096c9991a12.png)
 
