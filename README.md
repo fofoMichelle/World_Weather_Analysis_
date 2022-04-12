@@ -20,3 +20,11 @@ The following tasks were performed for the creation and overview of the app.
 - use input statements to retrieve customer destination preferences
 - use the Google Directions API to create a travel itinerary that shows the route between four cities chosen by customer
 - create a marker layer map with a pop-up marker for each city on the itinerary
+# Project Summary
+The following screenshots shows the maps created for the travel destinations and travel itinerary 
+![image](https://user-images.githubusercontent.com/99924850/162866069-c5d355e1-9d93-4350-b851-0324dafae7d6.png)
+![image](https://user-images.githubusercontent.com/99924850/162866192-eb7df656-ca99-43ef-be38-0eeeac03d952.png)
+
+# Conlusions
+This product was conducted while calling API's to retrieve the datas and also visualize the it.
+The process was not the easiest one however parsing the data from JSON files with indexing and using 'try-except' so not to exceed data limits was really helpful while working on the code.
