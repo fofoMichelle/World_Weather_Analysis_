@@ -32,5 +32,5 @@ The following screenshots shows the maps created for the travel destinations and
 ![image](https://user-images.githubusercontent.com/99924850/162866192-eb7df656-ca99-43ef-be38-0eeeac03d952.png)
 
 # Conlusions
-This product was conducted while calling API's to retrieve the datas and also visualize the it.
+This project was conducted while calling API's to retrieve the datas and also visualize the it.
 The process was not the easiest one however parsing the data from JSON files with indexing and using 'try-except' so not to exceed data limits was really helpful while working on the code.
